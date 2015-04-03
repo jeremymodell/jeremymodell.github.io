@@ -28,9 +28,10 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.ru", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+comments: true
 
 # Site owner
-owner:
+owner: 
   name: Jeremy Matos-Modell
   avatar: bio-photo3.jpg
   email: jeremymodell@gmail.com
@@ -51,3 +52,5 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
+
+
