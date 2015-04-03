@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Jeremy's new blog
 locale: en_US
-description: Describe your website here.
+description: A (mostly) technical blog of various things
 logo: site-logo.png
 search: true
 url: http://jeremymodell.github.io
@@ -31,13 +31,13 @@ exclude: ["lib", "config.ru", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  name: Jeremy Matos-Modell
+  avatar: bio-photo3.jpg
+  email: jeremymodell@gmail.com
+  disqus-shortname: jeremystechnicalblog
+  twitter: jeremymodell
+  facebook: jeremymatosm
+  github: jeremymodell
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -45,7 +45,7 @@ owner:
   tumblr: #username
   pinterest: #username
   google:
-    plus: #username
+    plus: 118198595497610139802
     analytics:
     verify:
     ad-client:
