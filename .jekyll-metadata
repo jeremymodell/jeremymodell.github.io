@@ -1,0 +1,320 @@
+---
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2011-03-10-sample-post.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2012-05-22-readability-post.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2013-05-22-sample-post-images.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2013-05-23-readability-feature-post.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2013-06-25-video-post.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2013-08-12-sample-link-post.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2013-08-16-code-highlighting-post.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2014-06-19-author-override.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_posts/blog/2014-08-08-hello-world.md:
+  mtime: 2015-04-02 22:37:14.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/404.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/feed.xml:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/feed-footer.html
+/Users/jeremymatos-modell/mythirdjekyll/index.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/articles/index.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/blog/index.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/tags/index.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/about/index.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/theme-setup/index.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/search/index.md:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html
+/Users/jeremymatos-modell/mythirdjekyll/search.json:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/fonts/FontAwesome.otf:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/fonts/fontawesome-webfont.eot:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/fonts/fontawesome-webfont.svg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/fonts/fontawesome-webfont.ttf:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/fonts/fontawesome-webfont.woff:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/plugins/jquery.fitvids.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/plugins/jquery.magnific-popup.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/plugins/respond.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/plugins/responsive-nav.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/plugins/search.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/scripts.min.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/vendor/html5shiv.min.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/vendor/jquery-1.9.1.min.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/vendor/modernizr-2.7.1.custom.min.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/assets/js/vendor/respond.min.js:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/favicon.ico:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/favicon.png:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/3953273590_704e3899d5_m.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/apple-touch-icon-114x114-precomposed.png:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/apple-touch-icon-144x144-precomposed.png:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/apple-touch-icon-72x72-precomposed.png:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/apple-touch-icon-precomposed.png:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/bio-photo-2.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/bio-photo-alt.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/bio-photo.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/bio-photo3.jpg:
+  mtime: 2015-04-02 20:25:27.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/michael-rose-photo.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/simple-search-screenshot.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/site-logo.png:
+  mtime: 2015-04-02 20:11:22.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/site-logo.psd:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/site-logo.xcf:
+  mtime: 2015-04-02 20:11:34.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-sample-image-1.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-sample-image-2.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-sample-image-3.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-sample-image-4.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-sample-image-5.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-sample-image-6.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-sample-image-7.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/so-simple-theme-preview.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/images/twitter-card-summary-large-image.jpg:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_includes/head.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_includes/feed-footer.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
