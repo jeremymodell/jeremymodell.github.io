@@ -313,7 +313,7 @@
   mtime: 2015-04-02 12:20:50.000000000 -04:00
   deps: []
 /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html:
-  mtime: 2015-04-04 01:35:58.000000000 -04:00
+  mtime: 2015-04-04 01:39:05.000000000 -04:00
   deps: []
 /Users/jeremymatos-modell/mythirdjekyll/_includes/feed-footer.html:
   mtime: 2015-04-02 12:20:50.000000000 -04:00
@@ -325,5 +325,8 @@
   mtime: 2015-04-04 01:30:53.000000000 -04:00
   deps: []
 /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html:
   mtime: 2015-04-02 12:20:50.000000000 -04:00
   deps: []
