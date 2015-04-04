@@ -18,3 +18,6 @@ Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Aus
 Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Willia
 
 This is an image 
+
+which is shown in the screenshot below:
+![Jewbwa]({{ site.url }}/images/jewbwa.gif)
