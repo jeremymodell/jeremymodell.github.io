@@ -20,10 +20,10 @@ Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater u
 This is an image 
 
 <figure>
-	<a href="/images/daisey.jpg"><img src="/images/daisey.jpg" alt="image"></a>
-	<figcaption>Daisey Girl2<a href="/images/daisey.jpg" title="A picture of daisey">Daisey girl/a>.</figcaption>
+	<img src="/images/daisey.jpg" alt="image">
+	<figcaption>This is Daisey Girl </figcaption>
 </figure>
 
-This is new text
+##This is new text
 
 ![This image](/images/daisey.jpg "Daisey girl")
