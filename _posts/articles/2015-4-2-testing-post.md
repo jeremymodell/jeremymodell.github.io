@@ -20,4 +20,4 @@ Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater u
 This is an image 
 
 which is shown in the screenshot below:
-![Jewbwa]({{ site.url }}/images/jewbwa.gif)
+![This image](/images/jewbwa.gif "Jewbwahaha")
