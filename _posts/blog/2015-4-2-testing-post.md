@@ -24,6 +24,7 @@ This is an image
 	<figcaption>This is Daisey Girl </figcaption>
 </figure>
 
-##This is new text
+testing new paragraph 
+This is new text
 
 ![This image](/images/daisey.jpg "Daisey girl")
