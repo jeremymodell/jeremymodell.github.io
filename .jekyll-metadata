@@ -95,7 +95,7 @@
   - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
   - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
 /Users/jeremymatos-modell/mythirdjekyll/_posts/blog/2014-08-08-hello-world.md:
-  mtime: 2015-04-02 22:37:14.000000000 -04:00
+  mtime: 2015-04-04 01:24:14.000000000 -04:00
   deps:
   - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
   - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
@@ -330,3 +330,45 @@
 /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html:
   mtime: 2015-04-02 12:20:50.000000000 -04:00
   deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_posts/articles/2015-4-2-testing-post.md:
+  mtime: 2015-04-04 02:06:17.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
+/Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html:
+  mtime: 2015-04-02 12:20:50.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html:
+  mtime: 2015-04-04 00:59:44.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_layouts/page.html:
+  mtime: 2015-04-04 01:44:57.000000000 -04:00
+  deps: []
+/Users/jeremymatos-modell/mythirdjekyll/_posts/blog/2015-4-2-testing-post.md:
+  mtime: 2015-04-04 02:00:47.000000000 -04:00
+  deps:
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/head.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/open-graph.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/navigation.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/browser-upgrade.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/social-share.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/disqus-comments.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/footer.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_includes/scripts.html
+  - /Users/jeremymatos-modell/mythirdjekyll/_layouts/post.html
