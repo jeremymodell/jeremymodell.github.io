@@ -19,12 +19,10 @@ Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater u
 
 This is an image 
 
-{% highlight html %}
 <figure>
 	<a href="/images/daisey.jpg"><img src="/images/daisey.jpg" alt="image"></a>
-	<figcaption><a href="/images/daisey.jpg" title="A picture of daisey">Daisey girl/a>.</figcaption>
+	<figcaption>Daisey Girl2<a href="/images/daisey.jpg" title="A picture of daisey">Daisey girl/a>.</figcaption>
 </figure>
-{% endhighlight %}
 
 This is new text
 
