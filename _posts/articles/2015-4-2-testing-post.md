@@ -19,5 +19,11 @@ Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater u
 
 This is an image 
 
-which is shown in the screenshot below:
-![This image](/images/jewbwa.gif "Jewbwahaha")
+
+<figure>
+	<a href="/images/daisey.jpg"><img src="/images/daisey.jpg" alt="image"></a>
+	<figcaption><a href="/images/daisey.jpg" title="A picture of daisey">Daisey girl/a>.</figcaption>
+</figure>
+
+
+![This image](/images/daisey.jpg "Jewbwahaha")
